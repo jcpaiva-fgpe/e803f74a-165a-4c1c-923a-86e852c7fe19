@@ -1,0 +1,6 @@
+ column_name 
+-------------
+ name
+ code
+ department
+(3 rows)
