@@ -1,0 +1,3 @@
+ indexname 
+-----------
+(0 rows)
