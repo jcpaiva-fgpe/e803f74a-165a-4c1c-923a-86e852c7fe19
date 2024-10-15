@@ -1,0 +1,5 @@
+ table_name | column_name |     data_type     
+------------+-------------+-------------------
+ modules    | name        | character varying
+ modules    | numhours    | integer
+(2 rows)
